@@ -6,12 +6,10 @@ Nos últimos anos, liderei equipes em uma marca brasileira especializada em **an
 
 Agora, inspirado pelo meu interesse em **dados**, estou em busca de novos desafios para crescer ainda mais nesse campo fascinante.
 
----
 
 ## 🌟 O que me motiva?
 Acredito que **diversidade é a chave para a inovação**. 🌍 Ao explorar conjuntos de dados diversos, descubro padrões valiosos que podem passar despercebidos à primeira vista. Além disso, estou comprometido com os valores de **diversidade e inclusão**, que considero essenciais para o sucesso de qualquer empresa.
 
----
 
 ## 🛠️ Minhas habilidades principais:
 ### 🚀 **Análise de Dados**
@@ -23,10 +21,9 @@ Transformo dados complexos em insights valiosos. Minhas ferramentas principais i
 - **R** ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 📊 **Visualização de dados (BI)**
-Desenvolvo estratégias baseadas em dados e crio modelos e visualizações impressionantes usando:
+Desenvolvo estratégias baseadas em dados e crio modelos e visualizações usando:
 - **Tableau** ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 - **Power BI** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
----
 
 🎯 **Estou sempre aberto a novas ideias, projetos e conexões!**  
 💌 Vamos conversar? Envie uma mensagem ou me conecte aqui no GitHub! 😊
