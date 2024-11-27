@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm Yuri Moura</h1>
+# 👋 Bem-vindo ao meu perfil!
 
-![testakjskadjka](https://github.com/Yur1Mour3/Yur1Mour3/assets/145025288/8c91dc33-bd3e-4a53-941d-b622ee3833e9)
+Olá, meu nome é **Yuri Moura**, e estou trilhando um caminho em **Data Analytics** com paixão e propósito! 🚀
 
-- 🔭 I’m currently <span style = "color: purple">**dedicating my efforts to enhance my proficiency in Python and Power BI, with the aim of refining my data cleansing and organization skills, and ultimately crafting an exceptional presentation format for this data."**
+Nos últimos anos, liderei equipes em uma marca brasileira especializada em **análise de decisões de crédito** e **suporte empresarial**. Essa experiência me proporcionou habilidades analíticas, comunicativas e colaborativas, além de me tornar um estrategista eficiente em tomada de decisões e gestão de equipes. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souyurimoura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souyurimoura/" height="30" width="40" /></a>
-</p>
+Agora, inspirado pelo meu interesse em **dados**, estou em busca de novos desafios para crescer ainda mais nesse campo fascinante.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🌟 O que me motiva?
+Acredito que **diversidade é a chave para a inovação**. 🌍 Ao explorar conjuntos de dados diversos, descubro padrões valiosos que podem passar despercebidos à primeira vista. Além disso, estou comprometido com os valores de **diversidade e inclusão**, que considero essenciais para o sucesso de qualquer empresa.
+
+---
+
+## 🛠️ Minhas habilidades principais:
+### 🚀 **Análise de Dados**
+Transformo dados complexos em insights valiosos. Minhas ferramentas principais incluem:
+- **SQL** ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- **Excel** ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- **Google Sheets** ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **R** ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### 📊 **Visualização de dados (BI)**
+Desenvolvo estratégias baseadas em dados e crio modelos e visualizações impressionantes usando:
+- **Tableau** ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- **Power BI** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+---
+
+🎯 **Estou sempre aberto a novas ideias, projetos e conexões!**  
+💌 Vamos conversar? Envie uma mensagem ou me conecte aqui no GitHub! 😊
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yur1mour3&show_icons=true&locale=en" alt="yur1mour3" /></p>
 
