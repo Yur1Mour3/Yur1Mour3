@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil!
 
-Olá, meu nome é **Yuri Moura**, e estou trilhando um caminho em **Data Analytics** com paixão e propósito! 🚀
+Olá, meu nome é **Yuri Moura**, e estou trilhando um caminho em **Data Analytics**! 🚀
 
 Nos últimos anos, liderei equipes em uma marca brasileira especializada em **análise de decisões de crédito** e **suporte empresarial**. Essa experiência me proporcionou habilidades analíticas, comunicativas e colaborativas, além de me tornar um estrategista eficiente em tomada de decisões e gestão de equipes. 
 
