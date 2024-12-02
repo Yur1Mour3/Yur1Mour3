@@ -14,16 +14,20 @@ Acredito que **diversidade é a chave para a inovação**. 🌍 Ao explorar conj
 ## 🛠️ Minhas habilidades principais:
 ### 🚀 **Análise de Dados**
 Transformo dados complexos em insights valiosos. Minhas ferramentas principais incluem:
-- **SQL** ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- **Excel** ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- **Google Sheets** ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **R** ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 📊 **Visualização de dados (BI)**
 Desenvolvo estratégias baseadas em dados e crio modelos e visualizações usando:
-- **Tableau** ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-- **Power BI** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 🎯 **Estou sempre aberto a novas ideias, projetos e conexões!**  
 💌 Vamos conversar? Envie uma mensagem ou me conecte aqui no GitHub! 😊
